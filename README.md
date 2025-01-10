@@ -32,7 +32,7 @@ Scrape product data from the target website.
 `
 {
   "page": 3,
-  "token": "static_token"
+  "token": "static-token"
 }
 `
 
